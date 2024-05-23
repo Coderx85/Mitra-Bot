@@ -1,7 +1,3 @@
-Certainly! Let's add a contact section with your email address, social media platform, and portfolio link:
-
----
-
 # Mitra Bot 🤖
 
 Namaste! 🙏 Welcome to Mitra Bot - your friendly AI-powered tutor 📚. Mitra Bot is here to assist you on your learning journey, providing insightful answers and guidance on a wide range of topics. Just like a devoted mentor, Mitra Bot is dedicated to helping you unlock the mysteries of the universe and expand your knowledge horizons. Let's embark on a quest for knowledge together! 🚀
