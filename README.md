@@ -26,7 +26,7 @@ Getting started with Mitra Bot is as easy as 1-2-3! Follow these simple steps to
 
 1. **Clone the Repository**: Clone the Mitra Bot repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/mitra-bot.git
+   git clone https://github.com/Priyanshu085/mitra-bot.git
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required dependencies by running:
@@ -39,9 +39,9 @@ Getting started with Mitra Bot is as easy as 1-2-3! Follow these simple steps to
    GROQ_API_KEY=your-api-key
    ```
 
-4. **Run the Bot**: Execute the `mitra_bot.py` script to launch Mitra Bot:
+4. **Run the Bot**: Execute the `index.py` script to launch Mitra Bot:
    ```
-   python mitra_bot.py
+   python index.py
    ```
 
 5. **Start Learning**: Interact with Mitra Bot by typing your questions and explore the vast knowledge base it offers. Whether you're a beginner or an expert, Mitra Bot is here to help you learn and grow.
@@ -50,7 +50,7 @@ Getting started with Mitra Bot is as easy as 1-2-3! Follow these simple steps to
 
 For any inquiries or feedback, feel free to reach out to me:
 
-- **Email**: abpriyanshu007@gmail.com
+- **Email**: [abpriyanshu007@gmail.com](mailto:abpriyanshu007@gmail.com)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/Priyanshu085/)
 - **Portfolio**: [Portfolio Website](https://priyanshu085.tech/)
 
